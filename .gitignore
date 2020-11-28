@@ -1,0 +1,9 @@
+node_modules/
+.cache/
+public/
+npm-debug.log
+yarn-error.log
+.eslintcache
+.gatsby-context.js
+.idea
+gatsby-starter-lumen.iml
