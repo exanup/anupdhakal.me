@@ -242,6 +242,30 @@ module.exports = {
           }
         }
       }
-    }
+    },
+    {
+      resolve: 'gatsby-plugin-webfonts',
+      options: {
+        fonts: {
+          google: [
+            {
+              family: 'Signika',
+              variants: ['300', '600'],
+              fontDisplay: 'swap',
+              strategy: 'selfHosted'
+            },
+            {
+              family: 'Faustina:ital',
+              variants: ['0,400', '0,600', '1,400', '1,600'],
+              fontDisplay: 'swap',
+              strategy: 'selfHosted'
+            },
+          ],
+        },
+        useMinify: true,
+        usePreload: true,
+        usePreconnect: true,
+      },
+    },
   ]
 };

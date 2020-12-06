@@ -38,7 +38,7 @@ My proficiency lies not just with high-level frameworks and libraries but also i
 - Tooling - Webpack, Git, Linters, Bash, Github Actions, CI/CD, Docker
 - Hosting - Netlify, Heroku, Vercel, AWS, Github Pages
 
-#### _In addition to the skills mentioned above, I have limited experience in:_
+#### In addition to the skills mentioned above, I have limited experience in:
 
 - Gatsby, PHP (Laravel, Codeigniter), Svelte, VueJS, NextJS
 - NestJS, MongoDB, Elm, Elixir (Phoenix), Rollup, GCS, etc.

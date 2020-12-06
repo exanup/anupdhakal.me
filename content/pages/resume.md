@@ -130,6 +130,6 @@ _Issued Jul 2019_
 
 ## Skills
 
-Requirements Analysis, Software Development, Web Applications,
-Business Analysis, Cloud Computing, Information Technology, JavaScript,
-Functional Programming, Solution Architecture, Optimization
+Requirements Analysis • Software Development • Web Applications •
+Business Analysis • Cloud Computing • Information Technology • JavaScript •
+Functional Programming • Solution Architecture • Optimization
