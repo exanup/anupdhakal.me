@@ -2,6 +2,14 @@
 title: 'Resume'
 template: 'page'
 socialImage: '/media/anupdhakal.jpg'
+description: "\
+Full stack web developer with decent communication and sales skills \
+• Highly proficient in JavaScript \
+• Quick learner, knowledge sharer and selfless team player with 4+ years of professional experience \
+• Knowledgeable of various programming languages, utilities and tooling \
+• Advocator of DX (Developer Experience) and good code quality (readability and efficiency) \
+• Able to take informed decisions after carefully evaluating compromises among various options \
+"
 ---
 
 ## Download links

@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://anupdhakal.me',
   pathPrefix: '/',
   title: 'Anup Dhakal',
-  subtitle: 'Personal Blog',
+  subtitle: 'Personal Blog by Anup Dhakal - Kathmandu-based software engineer. I enjoy building things!',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,

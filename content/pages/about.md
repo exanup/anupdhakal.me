@@ -2,6 +2,7 @@
 title: 'About me'
 template: 'page'
 socialImage: '/media/anupdhakal-sideway.jpg'
+description: "Software engineer highly proficient with JavaScript • Bachelor's degree in Computer Engineering, Tribhuvan University • 4+ years of professional experience in software services"
 ---
 
 Software engineer highly proficient with JavaScript. Bachelor's degree in Computer Engineering, Tribhuvan University. 4+ years of professional experience in software services.
