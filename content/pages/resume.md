@@ -6,7 +6,7 @@ socialImage: '/media/anupdhakal.jpg'
 
 ## Download links
 
-[Download Resume as PDF](/documents/resume-anup-dhakal.pdf) _(Exported on 2020/11/29)_
+[Download Resume as PDF](/documents/resume-anup-dhakal.pdf?v=112) _(Exported on 2020/12/06)_
 
 ## Summary
 
@@ -24,18 +24,17 @@ socialImage: '/media/anupdhakal.jpg'
 
 **Freelance Software Engineer**\
 Upwork\
-_Aug 2020 – Present (4 mos+)_
+_Aug 2020 – Present_
 
+- Awarded with Top Rated badge
 - Served 6 clients already
 - Awarded with Rising Talent badge for early success
-- 100% Job Success Score, Top Rated eligible weeks - 12 of 16
-- Worked on simple as well as complicated projects designing solutions,
-  suggesting improvements, writing code, as well as training the junior
-  developers
+- Worked on simple as well as complicated projects designing solutions, suggesting improvements, as well as writing code
+- Trained developers on software engineering concepts and best practices
 
 **Freelance Backend Developer**\
 PrefLogic, Inc.\
-_Aug 2019 – Feb 2020 (7 mos)_
+_Aug 2019 – Feb 2020_
 
 - Was one of the first developers to start the project from scratch
 - Played major role designing the solution itself
@@ -43,7 +42,7 @@ _Aug 2019 – Feb 2020 (7 mos)_
 
 **Software Engineer**\
 Leapfrog Technology, Inc.\
-_Mar 2019 – Present (1 yr 9 mos+)_
+_Mar 2019 – Present_
 
 - Led the project (with 4 fully allocated personnel) for an EdTech app used for
   maintaining the quality of education in Utah, US
@@ -61,7 +60,7 @@ _Mar 2019 – Present (1 yr 9 mos+)_
 
 **Associate Software Engineer**\
 Leapfrog Technology, Inc.\
-_Sep 2018 – Mar 2019 (6 mos)_
+_Sep 2018 – Mar 2019_
 
 - Worked on an EdTech app used for maintaining the quality of education in
   Utah, US
@@ -71,7 +70,7 @@ _Sep 2018 – Mar 2019 (6 mos)_
 
 **Trainee**\
 Leapfrog Technology, Inc.\
-_Jun 2018 – Sep 2018 (4 mos)_
+_Jun 2018 – Sep 2018_
 
 - Built a few canvas games after completing the training in HTML, CSS, JS,
   ES6 and Canvas
@@ -81,7 +80,7 @@ _Jun 2018 – Sep 2018 (4 mos)_
 
 **Sales Engineer and Business Support**\
 Microsoft\
-_Feb 2017 – Jan 2018 (1 yr)_
+_Feb 2017 – Jan 2018_
 
 - Looked after the operations of Microsoft in Nepal and Bhutan under the
   mentorship of Mr. Deependra Bajracharya (Business Development)
@@ -94,7 +93,7 @@ _Feb 2017 – Jan 2018 (1 yr)_
 
 **C.T.O.**\
 Technorio Inc.\
-_Jan 2016 – Dec 2016 (1 yr)_
+_Jan 2016 – Dec 2016_
 
 - Co-ran the company with a few friends from the college
 - Took decisions regarding the technologies the company needed to adapt
