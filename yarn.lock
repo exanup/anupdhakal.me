@@ -2161,34 +2161,34 @@
     prop-types "^15.6.1"
     react-lifecycles-compat "^3.0.4"
 
-"@sentry/browser@5.28.0":
-  version "5.28.0"
-  resolved "https://registry.yarnpkg.com/@sentry/browser/-/browser-5.28.0.tgz#f4c094bb97070442d95d51966a5e4dc8b92f586f"
-  integrity sha512-u1W47fgYFGWTV+RRQtNBzPZMXfR4MqCYSpuUVSpWQ+riITH7pvjG1cnBYDGT7+Q1s1wGrAL/9ElJfF795VVT9g==
+"@sentry/browser@5.29.0":
+  version "5.29.0"
+  resolved "https://registry.yarnpkg.com/@sentry/browser/-/browser-5.29.0.tgz#a8cab91729c759c456bd2254cef65bafa5cdc4ea"
+  integrity sha512-kRlt1mE2wrYjspnIupNnPxqsUrRuy02SuXhbpP7J6uu8QasoEmJ78hk0hHz4jOZRmuWwfs2zIXD4tLGgWOKq8A==
   dependencies:
-    "@sentry/core" "5.28.0"
-    "@sentry/types" "5.28.0"
-    "@sentry/utils" "5.28.0"
+    "@sentry/core" "5.29.0"
+    "@sentry/types" "5.29.0"
+    "@sentry/utils" "5.29.0"
     tslib "^1.9.3"
 
-"@sentry/core@5.28.0":
-  version "5.28.0"
-  resolved "https://registry.yarnpkg.com/@sentry/core/-/core-5.28.0.tgz#2b5ee2b76f0ccd73545eac61c3c2d72d7c76f531"
-  integrity sha512-hLAUFauqX+v/ap8ATJFdp392ZvfFoR0Gb4pyRkzOeWWs5ZYuqyb9Dsjtwsb61HH/XHQGW/BKZJR2dgIjQq4JGA==
+"@sentry/core@5.29.0":
+  version "5.29.0"
+  resolved "https://registry.yarnpkg.com/@sentry/core/-/core-5.29.0.tgz#4410ca0dc5785abf3df02fa23c18e83ad90d7cda"
+  integrity sha512-a1sZBJ2u3NG0YDlGvOTwUCWiNjhfmDtAQiKK1o6RIIbcrWy9TlSps7CYDkBP239Y3A4pnvohjEEKEP3v3L3LZQ==
   dependencies:
-    "@sentry/hub" "5.28.0"
-    "@sentry/minimal" "5.28.0"
-    "@sentry/types" "5.28.0"
-    "@sentry/utils" "5.28.0"
+    "@sentry/hub" "5.29.0"
+    "@sentry/minimal" "5.29.0"
+    "@sentry/types" "5.29.0"
+    "@sentry/utils" "5.29.0"
     tslib "^1.9.3"
 
-"@sentry/gatsby@^5.28.0":
-  version "5.28.0"
-  resolved "https://registry.yarnpkg.com/@sentry/gatsby/-/gatsby-5.28.0.tgz#f1ab39ea166ff062da9132448feaa4c126c367b8"
-  integrity sha512-3ZlfZjCC7XA683otqbePnISsS/DEnVx9WbE7dBAWLeUXsYy6HQwo8QBQ33qucqJ0kl6wCWgKF8P7kOUCN757xw==
+"@sentry/gatsby@^5.29.0":
+  version "5.29.0"
+  resolved "https://registry.yarnpkg.com/@sentry/gatsby/-/gatsby-5.29.0.tgz#af17281e24d6729896557cab3fee329253aa5a50"
+  integrity sha512-AOtlFD/y4CF0yxaoYlPqxQX59lCt/QNliHP8p3knQi78A29ZCkrBSUplCZroE7S/KBUfM19bkhbhVzpUeC0mfQ==
   dependencies:
-    "@sentry/react" "5.28.0"
-    "@sentry/tracing" "5.28.0"
+    "@sentry/react" "5.29.0"
+    "@sentry/tracing" "5.29.0"
 
 "@sentry/hub@5.27.6":
   version "5.27.6"
@@ -2199,13 +2199,13 @@
     "@sentry/utils" "5.27.6"
     tslib "^1.9.3"
 
-"@sentry/hub@5.28.0":
-  version "5.28.0"
-  resolved "https://registry.yarnpkg.com/@sentry/hub/-/hub-5.28.0.tgz#6a00b1011c0492b6acbaf0e24961fbd1c7edd1c1"
-  integrity sha512-1k19yJJcKoHbw12FET35t0m86lx/X6eJ6r4qM13eb2WN/OpoFtsgs1IjQOhGFL3OfVMcfh800Lc57ga04RLjLA==
+"@sentry/hub@5.29.0":
+  version "5.29.0"
+  resolved "https://registry.yarnpkg.com/@sentry/hub/-/hub-5.29.0.tgz#d018b978fdffc6c8261744b0d08e8d25a3f4dc58"
+  integrity sha512-kcDPQsRG4cFdmqDh+TzjeO7lWYxU8s1dZYAbbl1J4uGKmhNB0J7I4ak4SGwTsXLY6fhbierxr6PRaoNojCxjPw==
   dependencies:
-    "@sentry/types" "5.28.0"
-    "@sentry/utils" "5.28.0"
+    "@sentry/types" "5.29.0"
+    "@sentry/utils" "5.29.0"
     tslib "^1.9.3"
 
 "@sentry/minimal@5.27.6":
@@ -2217,36 +2217,36 @@
     "@sentry/types" "5.27.6"
     tslib "^1.9.3"
 
-"@sentry/minimal@5.28.0":
-  version "5.28.0"
-  resolved "https://registry.yarnpkg.com/@sentry/minimal/-/minimal-5.28.0.tgz#bfa63f5961988e6652207c77b3ea46d89f2d52bf"
-  integrity sha512-HzFrJx0xe5KETEZc7RxlH+1TfmH3q8w35ILOP5HGvk3+lG1DR25wHbMFmuUqNqVXrl26t0z32UBI30G1MxmTfA==
+"@sentry/minimal@5.29.0":
+  version "5.29.0"
+  resolved "https://registry.yarnpkg.com/@sentry/minimal/-/minimal-5.29.0.tgz#bd8b52f388abcec2234dbbc6d6721ff65aa30e35"
+  integrity sha512-nhXofdjtO41/caiF1wk1oT3p/QuhOZDYdF/b29DoD2MiAMK9IjhhOXI/gqaRpDKkXlDvd95fDTcx4t/MqqcKXA==
   dependencies:
-    "@sentry/hub" "5.28.0"
-    "@sentry/types" "5.28.0"
+    "@sentry/hub" "5.29.0"
+    "@sentry/types" "5.29.0"
     tslib "^1.9.3"
 
-"@sentry/react@5.28.0":
-  version "5.28.0"
-  resolved "https://registry.yarnpkg.com/@sentry/react/-/react-5.28.0.tgz#75c7ac3b9af1c34997ff9304c7bea46edc8f17f2"
-  integrity sha512-WWUhnnAlAIHj5gwP4qRg440TA7s/VRu19zh+59wrTzc2x9LrxiCe0jLs21jcKKVDCW6u8UPVIkrmSYEPT9/gcw==
+"@sentry/react@5.29.0":
+  version "5.29.0"
+  resolved "https://registry.yarnpkg.com/@sentry/react/-/react-5.29.0.tgz#367bf4113c4abc6477385383013aaaa381668baa"
+  integrity sha512-caSdAf+XqNrFw5xAj4gyOSd/33IccVhMlu60MuOOs6B6C3YxbMWUBTSuHeyxgK671ufIA+sxvipzMSVYr4VRAQ==
   dependencies:
-    "@sentry/browser" "5.28.0"
-    "@sentry/minimal" "5.28.0"
-    "@sentry/types" "5.28.0"
-    "@sentry/utils" "5.28.0"
+    "@sentry/browser" "5.29.0"
+    "@sentry/minimal" "5.29.0"
+    "@sentry/types" "5.29.0"
+    "@sentry/utils" "5.29.0"
     hoist-non-react-statics "^3.3.2"
     tslib "^1.9.3"
 
-"@sentry/tracing@5.28.0":
-  version "5.28.0"
-  resolved "https://registry.yarnpkg.com/@sentry/tracing/-/tracing-5.28.0.tgz#c61338f7766e17f0d3a9262b1f895f5a66c6d64f"
-  integrity sha512-7UOgwpMTcSDrWDORY5PpOgw+yzJ9GcyKfqWK7eBqn2NqMdjVNvkZ51eOCSrNUuQ6Nrk7Q7uoPe/hW32Ch/zxvA==
+"@sentry/tracing@5.29.0":
+  version "5.29.0"
+  resolved "https://registry.yarnpkg.com/@sentry/tracing/-/tracing-5.29.0.tgz#8ed515b3f9d409137357c38c8622858f9e684e4a"
+  integrity sha512-2ZITUH7Eur7IkmRAd5gw8Xt2Sfc28btCnT7o2P2J8ZPD65e99ATqjxXPokx0+6zEkTsstIDD3mbyuwkpbuvuTA==
   dependencies:
-    "@sentry/hub" "5.28.0"
-    "@sentry/minimal" "5.28.0"
-    "@sentry/types" "5.28.0"
-    "@sentry/utils" "5.28.0"
+    "@sentry/hub" "5.29.0"
+    "@sentry/minimal" "5.29.0"
+    "@sentry/types" "5.29.0"
+    "@sentry/utils" "5.29.0"
     tslib "^1.9.3"
 
 "@sentry/tracing@^5.27.6":
@@ -2265,10 +2265,10 @@
   resolved "https://registry.yarnpkg.com/@sentry/types/-/types-5.27.6.tgz#b5054eafcb8ac11d4bc4787c7bc7fc113cad8b80"
   integrity sha512-XOW9W8DrMk++4Hk7gWi9o5VR0o/GrqGfTKyFsHSIjqt2hL6kiMPvKeb2Hhmp7Iq37N2bDmRdWpM5m+68S2Jk6w==
 
-"@sentry/types@5.28.0":
-  version "5.28.0"
-  resolved "https://registry.yarnpkg.com/@sentry/types/-/types-5.28.0.tgz#242131fef910bded53350a36ffd7df240cfb8dcf"
-  integrity sha512-nNhoZEXdqM2xivxJBrLhxtJ2+s6FfKXUw5yBf0Jf/RBrBnH5fggPNImmyfpOoysl72igWcMWk4nnfyP5iDrriQ==
+"@sentry/types@5.29.0":
+  version "5.29.0"
+  resolved "https://registry.yarnpkg.com/@sentry/types/-/types-5.29.0.tgz#af5cec98cde54316c14df3121f0e8106e56b578e"
+  integrity sha512-iDkxT/9sT3UF+Xb+JyLjZ5caMXsgLfRyV9VXQEiR2J6mgpMielj184d9jeF3bm/VMuAf/VFFqrHlcVsVgmrrMw==
 
 "@sentry/utils@5.27.6":
   version "5.27.6"
@@ -2278,12 +2278,12 @@
     "@sentry/types" "5.27.6"
     tslib "^1.9.3"
 
-"@sentry/utils@5.28.0":
-  version "5.28.0"
-  resolved "https://registry.yarnpkg.com/@sentry/utils/-/utils-5.28.0.tgz#a30e36afd7094ced8d585c9fde2df2636cca6cf5"
-  integrity sha512-LW+ReVw9JG6g8Bvp2I1ThMDPATlisvkde+1WykxGqRhu2YIO+PvWhnoFhr9RD0ia3rYVlJkgkuTshMbPJ8HVwA==
+"@sentry/utils@5.29.0":
+  version "5.29.0"
+  resolved "https://registry.yarnpkg.com/@sentry/utils/-/utils-5.29.0.tgz#b4c1223ba362a94cf4850e9ca2cb24655b006b53"
+  integrity sha512-b2B1gshw2u3EHlAi84PuI5sfmLKXW1z9enMMhNuuNT/CoRp+g5kMAcUv/qYTws7UNnYSvTuVGuZG30v1e0hP9A==
   dependencies:
-    "@sentry/types" "5.28.0"
+    "@sentry/types" "5.29.0"
     tslib "^1.9.3"
 
 "@sideway/address@^4.1.0":
@@ -7957,10 +7957,10 @@ fuzzy@^0.1.1:
   resolved "https://registry.yarnpkg.com/fuzzy/-/fuzzy-0.1.3.tgz#4c76ec2ff0ac1a36a9dccf9a00df8623078d4ed8"
   integrity sha1-THbsL/CsGjap3M+aAN+GIweNTtg=
 
-gatsby-cli@^2.15.0:
-  version "2.15.0"
-  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-2.15.0.tgz#e731b1e16a8ee14bb9bd162c87401fa84943eaf2"
-  integrity sha512-ho6Bji5iOzHEXe1owvhgXip4Xpw71iQML8Kw4VdwGFzMqRxtv0m55Vj5yRKtMefM2hmLrNQ3zamtP6xdwwDk0A==
+gatsby-cli@^2.15.1:
+  version "2.15.1"
+  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-2.15.1.tgz#f51465db7772f9855346a585a82e82a977e95361"
+  integrity sha512-VSgnjdCmP0pBbpf5zk0CrsyQ7iE8O0NyLpBRZUqAi0xHP53JdKEsYeJB3QKZon6MH/oc6j+pxSBMUHqGzzhyhg==
   dependencies:
     "@babel/code-frame" "^7.10.4"
     "@hapi/joi" "^15.1.1"
@@ -7977,7 +7977,7 @@ gatsby-cli@^2.15.0:
     fs-exists-cached "^1.0.0"
     fs-extra "^8.1.0"
     gatsby-core-utils "^1.6.0"
-    gatsby-recipes "^0.5.0"
+    gatsby-recipes "^0.5.1"
     gatsby-telemetry "^1.6.0"
     hosted-git-info "^3.0.6"
     is-valid-path "^0.1.1"
@@ -8182,10 +8182,10 @@ gatsby-plugin-sass@^2.7.0:
     "@babel/runtime" "^7.12.5"
     sass-loader "^7.3.1"
 
-gatsby-plugin-sharp@^2.10.0:
-  version "2.10.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-2.10.0.tgz#65299b50cbd82a17334734f8ab1aa9c2435882f3"
-  integrity sha512-ivR4gOdBYtJDsFzjS7VLKJ+ShFIEmDDy7BCKFeoHDslydHRWEGTKAWK1XQryaMWSaCkVWjeW+zPmpQS8Re6GfA==
+gatsby-plugin-sharp@^2.10.1:
+  version "2.10.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-2.10.1.tgz#409958a2a4421b6f15b782be057ed54d019008a1"
+  integrity sha512-w1a4waIlAUb7SpfvMstVI8S2V/R5EECqSEQ3IUFtARqbp/9eGFMlgwBBmn4AEA8bsIp3Bwvl1T2lIqZoh+jgHA==
   dependencies:
     "@babel/runtime" "^7.12.5"
     async "^3.2.0"
@@ -8257,10 +8257,10 @@ gatsby-react-router-scroll@^3.3.0:
   dependencies:
     "@babel/runtime" "^7.12.5"
 
-gatsby-recipes@^0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/gatsby-recipes/-/gatsby-recipes-0.5.0.tgz#d9d701ba3dd2d8427ab7f1c9cc14b498ca28b26c"
-  integrity sha512-C0JHy4vDbGYGT3GSACpjGygqJ/kyl+GM+Li19G7LHeBTJ62o1+mF5zkYsBjMl43S4+3yrLeB4ijukPZEQdlIAA==
+gatsby-recipes@^0.5.1:
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/gatsby-recipes/-/gatsby-recipes-0.5.1.tgz#d6e3d07cc7d0dc0b073e5522e4c3c3d67686e0b0"
+  integrity sha512-6bKV8/vyWNG9mQQUL3XP/ZbiugDQTNxZT+Rs61qDU+0drzMjpIs4YqP1gj9PExp86mqnGlezEyvSK9gEPZjb+g==
   dependencies:
     "@babel/core" "^7.12.3"
     "@babel/generator" "^7.12.5"
@@ -8356,10 +8356,10 @@ gatsby-remark-external-links@0.0.4:
     unist-util-find "^1.0.1"
     unist-util-visit "^1.1.3"
 
-gatsby-remark-images@^3.7.0:
-  version "3.7.0"
-  resolved "https://registry.yarnpkg.com/gatsby-remark-images/-/gatsby-remark-images-3.7.0.tgz#31df6510b2f88e7e8a2b104080ba4243fe550cd6"
-  integrity sha512-lwC1ImUMzqetcHmT3RnCp6Ltv7V/Fh9YNusaRt2ti2hmW8Q9vlwqMCGxmqLCl+9+A2Obc82D3yx1OBvDVCiD8Q==
+gatsby-remark-images@^3.7.1:
+  version "3.7.1"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-images/-/gatsby-remark-images-3.7.1.tgz#c07c240c3be5d6bc1116ac621e6f5d49ed0e03c0"
+  integrity sha512-02lUP2CK6ftlO8L/TDowgdUiaQikC7w7sL+suBXoeTvxWBafG0KUkPQ+0n0Kcqbj62e4vcphGFHxEWoAAmsbIg==
   dependencies:
     "@babel/runtime" "^7.12.5"
     chalk "^4.1.0"
@@ -8502,10 +8502,10 @@ gatsby-transformer-sharp@^2.8.0:
     semver "^7.3.2"
     sharp "^0.26.3"
 
-gatsby@^2.28.0:
-  version "2.28.0"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.28.0.tgz#ed2d3b1d1f953ff59f641797560df555a41bf1b2"
-  integrity sha512-kWejVSxsuiT/yfghLHDOeaJg0eV5UdS5zc66ANPcSEJ+9U3DgPWoVM18aFsa+VsywGWxp2uqzOPdsItjdiOt+A==
+gatsby@^2.28.2:
+  version "2.28.2"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.28.2.tgz#2ca533900f8d4ad983f97981e7b17025d3f1c454"
+  integrity sha512-NnsXUD/u51ykNkOuqt8aAqIXWY9asP0nh0Jcum+pAZ+BBhOQu5cr4nnB6h1NS93ZlEyJxlH6gfle1nN2GoUFDA==
   dependencies:
     "@babel/code-frame" "^7.10.4"
     "@babel/core" "^7.12.3"
@@ -8574,7 +8574,7 @@ gatsby@^2.28.0:
     find-cache-dir "^3.3.1"
     fs-exists-cached "1.0.0"
     fs-extra "^8.1.0"
-    gatsby-cli "^2.15.0"
+    gatsby-cli "^2.15.1"
     gatsby-core-utils "^1.6.0"
     gatsby-graphiql-explorer "^0.7.0"
     gatsby-legacy-polyfills "^0.3.0"
@@ -8640,6 +8640,7 @@ gatsby@^2.28.0:
     st "^2.0.0"
     stack-trace "^0.0.10"
     string-similarity "^1.2.2"
+    strip-ansi "^5.2.0"
     style-loader "^0.23.1"
     terminal-link "^2.1.1"
     terser-webpack-plugin "^2.3.8"
