@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://anupdhakal.me',
   pathPrefix: '/',
   title: 'Anup Dhakal',
-  subtitle: 'Personal Blog by Anup Dhakal - Kathmandu-based software engineer. I enjoy building things!',
+  subtitle: 'Personal Blog by Anup Dhakal - Senior Software Engineer. Kathmandu-based, loves working remotely!',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Anup Dhakal',
     photo: '/photo.jpg',
-    bio: 'Kathmandu-based software engineer. I enjoy building things!',
+    bio: 'Senior Software Engineer. Kathmandu-based, loves working remotely!',
     contacts: {
       email: 'anupdhakal2000@gmail.com',
       telegram: 'exanup',

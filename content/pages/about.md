@@ -1,18 +1,29 @@
 ---
-title: 'About me'
-template: 'page'
-socialImage: '/media/anupdhakal-sideway.jpg'
-description: "Software engineer highly proficient with JavaScript • Bachelor's degree in Computer Engineering, Tribhuvan University • 4+ years of professional experience in software services"
+title: "About me"
+template: "page"
+socialImage: "/media/anupdhakal-sideway.jpg"
+description: "\
+  Senior software engineer highly proficient with JavaScript \
+  • Bachelor's degree in Computer Engineering, Tribhuvan University \
+  • 4+ years of professional experience in software services \
+  • Been speaking the language of computer since the age of 14 \
+  "
 ---
 
-Software engineer highly proficient with JavaScript. Bachelor's degree in Computer Engineering, Tribhuvan University. 4+ years of professional experience in software services.
+Senior software engineer highly proficient with JavaScript. Bachelor's degree
+in Computer Engineering, Tribhuvan University. 4+ years of professional
+experience in software services. Been speaking the language of computer since
+the age of 14.
 
-My proficiency lies not just with high-level frameworks and libraries but also in core vanilla programming and problem-solving. So, you can have peace of mind while I am working on turning your ideas into reality.
+My proficiency lies not just with high-level frameworks and libraries but also
+in core programming and problem-solving. So, you can have peace of mind while I
+am working on turning your ideas into reality.
 
 ![Picture of Anup looking sideways](/media/anupdhakal-sideway.jpg)
 
-#### Why you should choose me:
+#### Why you should choose me
 
+- I am a highly experienced engineer with a vast array of skills under my belt.
 - I have a nice blend of soft skills and hard skills.
 - I can talk the talk, but more importantly, I can walk the walk.
 - I take deadlines seriously. I communicate any red flags ASAP.
@@ -20,7 +31,7 @@ My proficiency lies not just with high-level frameworks and libraries but also i
 - I write high quality, well-engineered and organized code.
 - I self-review and test my work multiple times before I submit it.
 
-#### My specialities include:
+#### My specialties include
 
 - Single Page Application (SPA) development
 - RESTful API design and development (confirming to JSON:API spec if needed)
@@ -28,8 +39,9 @@ My proficiency lies not just with high-level frameworks and libraries but also i
 - Tailored libraries/modules/components development
 - JavaScript mentoring with or without using frameworks (technical + hands-on)
 - Code quality inspection and pull requests review
+- Docker and CI/CD setup
 
-#### I am proficient with:
+#### I am proficient with
 
 - General purpose - JavaScript, TypeScript
 - Frontend - HTML5, CSS3, SASS/SCSS, LESS, JQuery, decent understanding of UX
@@ -38,7 +50,7 @@ My proficiency lies not just with high-level frameworks and libraries but also i
 - Tooling - Webpack, Git, Linters, Bash, Github Actions, CI/CD, Docker
 - Hosting - Netlify, Heroku, Vercel, AWS, Github Pages
 
-#### In addition to the skills mentioned above, I have limited experience in:
+#### In addition to the skills mentioned above, I have limited experience in
 
 - Gatsby, PHP (Laravel, Codeigniter), Svelte, VueJS, NextJS
 - NestJS, MongoDB, Elm, Elixir (Phoenix), Rollup, GCS, etc.
