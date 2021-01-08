@@ -114,13 +114,12 @@ ul {
 
   & li {
     padding: 0 5px;
-    margin-bottom: 10px;
+    // margin-bottom: 10px;
   }
 
 }
 
 p {
-  font-family: $typographic-font-family-serif;
   @include line-height(1);
   @include margin-bottom(1);
 }
